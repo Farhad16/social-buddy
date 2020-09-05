@@ -1,0 +1,19 @@
+.post h1{
+    color: #3F51B5;
+}
+
+.comments{
+    background-color: rgb(245, 245, 245);
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0px;
+}
+
+.commentStyle{
+    display: flex;
+}
+
+.comment-body img{
+    width: 50px;
+}
